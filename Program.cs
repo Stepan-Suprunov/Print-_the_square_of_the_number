@@ -3,5 +3,5 @@ Console.WriteLine("Введите число ");
 int Num = int.Parse(Console.ReadLine());
 //Возведение в квадрат
 int Square = (Num*Num);
-//Мониторинг
+//Вывод решения
 Console.WriteLine(Square);
